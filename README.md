@@ -1,3 +1,4 @@
+US States Guessing Game    
 This interactive Python game challenges players to guess the names of US states and locate them on a map. Built using the turtle graphics module and pandas for data handling, this game is both educational and fun.
 
 Features    
@@ -18,19 +19,20 @@ Handles the game logic, user input, and rendering of the map.
 Getting Started
 1. Clone the Repository:
 
-bash
-git clone https://github.com/LukeShawket/us-states-guessing-game.git
-cd us-states-guessing-game
-Install Dependencies: Ensure you have pandas installed. You can install it using pip:
+bash    
+git clone https://github.com/LukeShawket/us-states-guessing-game.git    
+cd us-states-guessing-game    
 
-bash
+Install Dependencies: Ensure you have pandas installed. You can install it using pip:    
+
+bash    
 pip install pandas    
 
 2. Run the Game:
 
 Execute the main script to start the game:
 
-bash
+bash    
 python main.py    
 
 3. Gameplay:
